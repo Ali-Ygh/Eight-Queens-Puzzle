@@ -1,0 +1,11 @@
+
+body{
+text-align: center;
+background: rgb(154,98,190);
+background: linear-gradient(225deg, rgb(221, 180, 247) 0%, rgb(250, 180, 238) 100%);
+}
+
+hr{
+   border-color : darkslateblue;
+    width: 10%;
+}
